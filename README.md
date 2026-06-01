@@ -69,4 +69,5 @@ This project is provided strictly for educational and learning purposes.
 MIT License
 
 ```
+MIT License
 ```
