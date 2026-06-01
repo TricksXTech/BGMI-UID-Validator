@@ -1,5 +1,3 @@
-# README.md
-
 # BGMI UID Validator API
 
 A simple PHP API wrapper that validates BGMI UIDs and fetches player information.
